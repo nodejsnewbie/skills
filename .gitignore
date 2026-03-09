@@ -2,4 +2,17 @@
 __pycache__/
 .idea/
 .vscode/
-
+# Generated exam files
+output_exams_*/
+generate_java_exam/*.txt
+generate_java_exam/*.docx
+generate_java_exam/*.md
+generate_java_exam/*.doc
+generate_java_exam/*.xls
+generate_java_exam/*.xlsx
+generate_java_exam/*.log
+generate_java_exam/runner*.ps1
+generate_java_exam/make_ps1.js
+node_modules/
+dist/
+build/
